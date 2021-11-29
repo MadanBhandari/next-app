@@ -4,7 +4,7 @@
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://madanbhandari.github.io/next-app):
+Preview the example live on [GH Pages](http://madanbhandari.github.io/next-app)
 
 
 ## How to use
